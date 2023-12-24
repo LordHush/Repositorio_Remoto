@@ -13,7 +13,7 @@ def conversao_moeda(moeda,valor_inicial,valor_final):
 
     return resultado
 valor_inicial=float(input("digite valorr: "))
-moeda_inicial=input("digite a moeda que você tem(dolar,real): ")
+moeda_inicial=input("a digite a moeda que você tem(dolar,real): ")
 moeda_final=input("digite a moeda que você quer converter(dolar,real): ")
 
 resultado=conversao_moeda(valor_inicial,moeda_inicial,moeda_final)
