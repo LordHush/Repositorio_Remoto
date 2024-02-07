@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ANDRÉ/Documents/Repositorio_local/Repositorio_remoto",
-      "program": "c:/Users/ANDRÉ/Documents/Repositorio_local/Repositorio_remoto/build/Debug/outDebug",
+      "cwd": "c:/Users/tukad/Documents/clone",
+      "program": "c:/Users/tukad/Documents/clone/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
