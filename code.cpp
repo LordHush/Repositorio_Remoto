@@ -7,6 +7,6 @@ int main(){
     pair<decltype(tupa),string>par{tupa,get<1>(tupa)};
     auto [primeiro,segundo]=par;
     auto[first,second]=primeiro;
-    cout<<first<<" "<<second;
+    cout<<first<<"  "<<second;
     
 }
