@@ -5,7 +5,7 @@ def conversao_moeda(moeda,valor_inicial,valor_final):
     }
     
     if (valor_inicial,valor_final) not in valores.keys():
-        return "moeda não existes"
+        return "moeda não existe"
 
 
     valor_conversao = valores[(moeda_inicial, moeda_final,)]
