@@ -1,3 +1,3 @@
 a={}
-a=["numero"] == input("digite algo:")#isso e uma comparacao
+a=["numero"] == input("digite algo:")
 print(a)
