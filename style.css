@@ -1,0 +1,38 @@
+h1{ /*isso e uma referencia a tag h1 pagina inicial meu ovo */
+
+    margin-bottom: 0px !important;
+    margin-top: 0 px !important;
+    color: rgb(163, 74, 1);
+    text-align: center;
+}
+
+.Paragraph{ /*isso e uma referencia a tag p do paragrafo*/
+    color: brown;
+    margin-bottom:0px !important; /*!importants significa que essa instrucao tem precedencia sobre a instrucao que esta dentro da tag <p style margin-bottom=16px*/
+    text-align:center;
+    height: 150%;
+    width: 100%;
+    
+}
+.Paragraph{ /*isso e uma referencia a tag p do paragrafo*/
+    color: blue;
+    margin-bottom:0px !important; /*!importants significa que essa instrucao tem precedencia sobre a instrucao que esta dentro da tag <p style margin-bottom=16px*/
+    text-align:center;
+    height: 150%;
+    width: 100%;
+    
+}
+
+p{
+    color:blue 
+    margin-bottom:0px !important; /*!importants significa que essa instrucao tem precedencia sobre a instrucao que esta dentro da tag <p style margin-bottom=16px*/
+    text-align:center;
+    height: 150%;
+    width: 100%;
+}
+.img_anime{ /*essa classe faz referencia as fotos de anime do site*/
+    height: 300px !important;
+    width: 200px!important;
+    border-radius: 50%!important;
+
+}

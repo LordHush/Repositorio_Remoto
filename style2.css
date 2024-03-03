@@ -1,0 +1,9 @@
+p{
+    
+        color:yellow;
+        margin-bottom:0px !important; /*!importants significa que essa instrucao tem precedencia sobre a instrucao que esta dentro da tag <p style margin-bottom=16px*/
+        text-align:center;
+        height: 150%;
+        width: 100%;
+    
+}
