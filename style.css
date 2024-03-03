@@ -24,8 +24,8 @@ h1{ /*isso e uma referencia a tag h1 pagina inicial meu ovo */
 }
 
 p{
-    color:blue 
-    margin-bottom:0px !important; /*!importants significa que essa instrucao tem precedencia sobre a instrucao que esta dentro da tag <p style margin-bottom=16px*/
+    color:blue ;
+    margin-bottom: 0px !important; /*!importants significa que essa instrucao tem precedencia sobre a instrucao que esta dentro da tag <p style margin-bottom=16px*/
     text-align:center;
     height: 150%;
     width: 100%;
