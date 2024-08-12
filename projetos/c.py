@@ -1,3 +1,3 @@
 a={}
-a=["numero"] == input("digite algo:")
+a["numero"]= input("digite algo:")
 print(a)
